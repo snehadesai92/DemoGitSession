@@ -13,9 +13,10 @@
             Use this area to provide additional information.
         </p>
         <ul>
-            <li><a runat="server" href="~/">Home</a></li>
-            <li><a runat="server" href="~/About">About</a></li>
-            <li><a runat="server" href="~/Contact">Contact</a></li>
+            <li><a runat="server" href="Default.aspx">Home</a></li>
+            <li><a runat="server" href="About.aspx">About</a></li>
+            <li><a runat="server" href="Contact.aspx">Contact</a></li>
+            Hi this is all coding done to learn git .
         </ul>
     </aside>
 </asp:Content>
